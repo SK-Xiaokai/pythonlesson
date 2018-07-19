@@ -41,6 +41,7 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 # Easily change the color scheme of the theme using one of the provided “skins”:
 minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+highlighter : pygments
 
 plugins:
   - jekyll-feed

@@ -2,7 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+//If you have made edits to the theme’s CSS files be sure to update /assets/css/main.scss to include @import "minimal-mistakes/skins/default"; // skin before the minimal-mistakes import.
+
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}"; // skin //SK: change "default" to "air"
 @import "minimal-mistakes"; // main partials

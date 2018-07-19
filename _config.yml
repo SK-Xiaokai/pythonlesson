@@ -2,8 +2,6 @@
 repository: SK-Xiaokai/sknet
 #repository:sknet/SK-Xiaokai
 
-
-
 #SK End
 
 # Welcome to Jekyll!
@@ -23,21 +21,27 @@ repository: SK-Xiaokai/sknet
 # in the templates via {{ site.myvariable }}.
 
 #SK title: Your awesome title
-title: 思凯网络
+title: 思凯网络 | 专业的网络在线学习交流平台
 
 email: 29249083@qq.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-# this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.sknet-school.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  SK-Xiaokai # jekyll
 
 # Build settings
 markdown: kramdown
+
+
 # SK#  theme: minima
+theme: minimal-mistakes-jekyll
+# Easily change the color scheme of the theme using one of the provided “skins”:
+minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-feed
 
@@ -53,4 +57,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+
+teaser: /assets/images/logo1.png
+
+header:
+  teaser: /assets/images/header.jpg

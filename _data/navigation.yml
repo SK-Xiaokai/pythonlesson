@@ -1,10 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Python教程"
+    url: http://www.python3.vip/
+  - title: "SCMLife"
+    url: http://www.scmlife.com/ 
+  - title: "关于我们"
+    url: https://skonline.ke.qq.com/#category=-1&tab=3&tuin=1be4e3b
+    # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/

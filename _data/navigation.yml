@@ -1,4 +1,4 @@
-# main links
+﻿#  main links
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -8,7 +8,7 @@ main:
     url: http://www.scmlife.com/ 
   - title: "关于我们"
     url: https://skonline.ke.qq.com/#category=-1&tab=3&tuin=1be4e3b
-    # - title: "Sample Posts"
+  # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/

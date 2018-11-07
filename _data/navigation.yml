@@ -8,6 +8,10 @@ main:
     url: http://www.scmlife.com/ 
   - title: "关于我们"
     url: https://skonline.ke.qq.com/#category=-1&tab=3&tuin=1be4e3b
+  - title: "Sublime Handbook"
+    url: /sublime/build/
+  - title: "python3-cookbook"
+    url: /python3-cookbook/build/html/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
